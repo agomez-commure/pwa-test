@@ -2,7 +2,7 @@
   "name": "pwa-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://andresfgomez86.github.io/pwa-test",
+  "homepage": "https://agomez-commure.github.io/pwa-test",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
