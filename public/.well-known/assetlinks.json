@@ -1,0 +1,12 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target" : { 
+			"namespace": "android_app",
+			"package_name": "io.github.agomezcommure.pwatest",
+			"sha256_cert_fingerprints": [
+				"D6:1E:D9:BD:05:84:CB:10:42:7C:42:64:2A:99:93:AA:1D:74:E2:0A:4B:2A:70:6B:94:54:51:90:04:DC:3C:5C"
+			] 
+		}
+  }
+]
